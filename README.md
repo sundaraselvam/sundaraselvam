@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Sundara Selvam S</h1>
 <h3 align="center">An Enthusiastic Automation tester from Chennai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sundaraselvam&label=Profile%20views&color=0e75b6&style=flat" alt="sundaraselvam" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundaraselvam" alt="sundaraselvam" /></a> </p>
 
 - 🔭 I’m currently working on **Automation Testing**
